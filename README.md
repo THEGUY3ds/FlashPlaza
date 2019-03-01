@@ -1,2 +1,2 @@
 # FlashPlaza
-http://nintendobrew.com/FlashPlaza/
+https://theguy3ds.github.io/FlashPlaza/
