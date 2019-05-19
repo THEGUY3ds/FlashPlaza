@@ -1,2 +1,4 @@
 # FlashPlaza
-https://theguy3ds.github.io/FlashPlaza/
+flashplaza.ml We are Moving From Github Due to lack of storage space.
+
+
